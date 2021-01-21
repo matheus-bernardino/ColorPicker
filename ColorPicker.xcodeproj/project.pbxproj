@@ -13,6 +13,7 @@
 		2FA02B1A25B79A7C0083ECA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FA02B1825B79A7C0083ECA3 /* Main.storyboard */; };
 		2FA02B1C25B79A7C0083ECA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FA02B1B25B79A7C0083ECA3 /* Assets.xcassets */; };
 		2FA02B1F25B79A7C0083ECA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FA02B1D25B79A7C0083ECA3 /* LaunchScreen.storyboard */; };
+		2FA02B2825B79EFF0083ECA3 /* ColorTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA02B2725B79EFF0083ECA3 /* ColorTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2FA02B1B25B79A7C0083ECA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FA02B1E25B79A7C0083ECA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FA02B2025B79A7C0083ECA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FA02B2725B79EFF0083ECA3 /* ColorTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2FA02B1225B79A7C0083ECA3 /* AppDelegate.swift */,
 				2FA02B1425B79A7C0083ECA3 /* SceneDelegate.swift */,
 				2FA02B1625B79A7C0083ECA3 /* ViewController.swift */,
+				2FA02B2725B79EFF0083ECA3 /* ColorTableViewCell.swift */,
 				2FA02B1825B79A7C0083ECA3 /* Main.storyboard */,
 				2FA02B1B25B79A7C0083ECA3 /* Assets.xcassets */,
 				2FA02B1D25B79A7C0083ECA3 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FA02B1725B79A7C0083ECA3 /* ViewController.swift in Sources */,
+				2FA02B2825B79EFF0083ECA3 /* ColorTableViewCell.swift in Sources */,
 				2FA02B1325B79A7C0083ECA3 /* AppDelegate.swift in Sources */,
 				2FA02B1525B79A7C0083ECA3 /* SceneDelegate.swift in Sources */,
 			);
